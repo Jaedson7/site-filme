@@ -1,0 +1,98 @@
+html,body{
+	height: 100%;
+}
+
+/*Barra de navegacao*/
+nav.navbar-tranparent{
+	padding: 15px 0px;
+	background: rgba(0, 0, 0, 0.6);
+	border: none;
+}
+ .navbar-inverse .navbar-nav>li>a{
+     color: white;
+     font-size: 15px;
+ }
+
+  .navbar-inverse .navbar-nav>li>a:hover{
+     color: red;
+     font-size: 15px;
+     background-color: rgba(245,9,9,0.1);
+ }
+
+ /*Logo*/
+.logo{
+	font-size: 25px;
+	font-family: Trebuchet MS,Arial,Helvetica;
+}
+
+ .red{
+ 	color: red;
+ 	font-size: 25px;
+ 	font-family: Trebuchet MS,Arial,Helvetica;
+ }
+
+ .blue{
+ 	color: blue;
+ }
+ /* imagem do carrosel */
+
+#primeira{
+	margin-top: 35px;
+}
+
+ .img-tamanho{
+ 	width: 1150px;
+ }
+ .item p{
+ 	font-size: 18px;
+ 	color: yellow;
+ }
+
+/*lancamentos-filmes*/
+
+#lancamentos-filmes{
+	margin-top: 25px;
+}
+.cubos{
+    margin-right: 15px;
+}
+
+/*footer*/
+footer{
+	background-color: black;
+	position: relative;
+	margin-top: 35px;
+}
+
+.item-rede-social{
+	float: right;
+}
+
+
+/*tipografia*/
+a{
+	text-decoration: none;
+	color: red;
+
+}
+a:hover{
+	text-decoration: none;
+	color: blue;
+	
+}
+
+
+/* Secao Top-filmes*/
+.page-header {
+	margin-bottom: 25px;
+}
+
+h2{
+	margin-top: 55px; 
+}
+
+.table{
+	width: 500px;
+}
+
+ 
